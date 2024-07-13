@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 ## I love to read latest news at DevDaily
-<a href="https://app.daily.dev/charlton95"><img src="https://api.daily.dev/devcards/v2/hknhXI84N4cLB0abn7gX0.png?r=gpf&type=default" width="356" alt="Charlton's Dev Card"/></a>
+<a href="https://app.daily.dev/charltonkdev"><img src="https://api.daily.dev/devcards/v2/hknhXI84N4cLB0abn7gX0.png?type=default&r=syv" width="356" alt="Charlton's Dev Card"/></a>
