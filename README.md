@@ -27,5 +27,5 @@ Here are some ideas to get you started:
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charltonkdev&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## I love to read latest news at DevDaily
+## My Daily Tech News Resources
 <a href="https://app.daily.dev/charltonkdev"><img src="https://api.daily.dev/devcards/v2/hknhXI84N4cLB0abn7gX0.png?type=default&r=syv" width="356" alt="Charlton's Dev Card"/></a>
